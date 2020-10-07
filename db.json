@@ -1,4 +1,6 @@
-[
+{
+  "devices":
+ [
  {
    "title": "100W light bulb (Incandescent)",
    "minimum": "100W",
@@ -1233,3 +1235,4 @@
    "Notes": ""
  }
 ]
+}
