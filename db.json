@@ -1,0 +1,1235 @@
+[
+ {
+   "Device": "100W light bulb (Incandescent)",
+   "Minimum": "100W",
+   "Maximum": "100W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "22 Inch LED TV",
+   "Minimum": "17W",
+   "Maximum": "17W",
+   "Standby": "0.5W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "25\" colour TV",
+   "Minimum": "150W",
+   "Maximum": "150W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "3\" belt sander",
+   "Minimum": "1000W",
+   "Maximum": "1000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "32 Inch LED TV",
+   "Minimum": "20W",
+   "Maximum": "60W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "42 Inch LED TV",
+   "Minimum": "58W",
+   "Maximum": "60W",
+   "Standby": "0.3W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "46 Inch LED TV",
+   "Minimum": "60W",
+   "Maximum": "70W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "49 Inch LED TV",
+   "Minimum": "85W",
+   "Maximum": "85W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "60W light bulb (Incandescent)",
+   "Minimum": "60W",
+   "Maximum": "60W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "65 Inch LED TV",
+   "Minimum": "120W",
+   "Maximum": "130W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "82 Inch LED TV",
+   "Minimum": "228W",
+   "Maximum": "295W",
+   "Standby": "0.5W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "9\" disc sander",
+   "Minimum": "1200W",
+   "Maximum": "1200W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Air Cooler",
+   "Minimum": "65W",
+   "Maximum": "80W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Air Fryer",
+   "Minimum": "1500W",
+   "Maximum": "1500W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Air Purifier",
+   "Minimum": "25W",
+   "Maximum": "30W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Amazon Echo",
+   "Minimum": "3W",
+   "Maximum": "3W",
+   "Standby": "2W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Amazon Echo Dot",
+   "Minimum": "2W",
+   "Maximum": "3W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Amazon Echo Show",
+   "Minimum": "2W",
+   "Maximum": "4W",
+   "Standby": "0.1W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "American-style Fridge Freezer",
+   "Minimum": "40W",
+   "Maximum": "80W",
+   "Standby": "N/A",
+   "Other Name(s)": "American Fridge Freezer",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Apple TV",
+   "Minimum": "3W",
+   "Maximum": "6W",
+   "Standby": "0.3W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Aquarium Pump",
+   "Minimum": "20W",
+   "Maximum": "50W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "AV Receiver",
+   "Minimum": "450W",
+   "Maximum": "450W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Bathroom Towel Heater",
+   "Minimum": "60W",
+   "Maximum": "150W",
+   "Standby": "N/A",
+   "Other Name(s)": "Towel Rail",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Ceiling Fan",
+   "Minimum": "60W",
+   "Maximum": "70W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Chromebook",
+   "Minimum": "45W",
+   "Maximum": "45W",
+   "Standby": "N/A",
+   "Other Name(s)": "Chrome Book",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Chromecast",
+   "Minimum": "2W",
+   "Maximum": "2W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Clock radio",
+   "Minimum": "1W",
+   "Maximum": "2W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Clothes Dryer",
+   "Minimum": "1000W",
+   "Maximum": "4000W",
+   "Standby": "N/A",
+   "Other Name(s)": "Tumble Dryer,Dryer",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Coffee Maker",
+   "Minimum": "800W",
+   "Maximum": "1400W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Computer Monitor",
+   "Minimum": "25W",
+   "Maximum": "30W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Cooker Hood",
+   "Minimum": "20W",
+   "Maximum": "30W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Corded Drill",
+   "Minimum": "600W",
+   "Maximum": "850W",
+   "Standby": "N/A",
+   "Other Name(s)": "Electric Drill",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Corded Electric Handheld Leaf Blower",
+   "Minimum": "2500W",
+   "Maximum": "2500W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Cordless Drill Charger",
+   "Minimum": "70W",
+   "Maximum": "150W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Curling Iron",
+   "Minimum": "25W",
+   "Maximum": "35W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "DAB Mains Radio",
+   "Minimum": "5W",
+   "Maximum": "9W",
+   "Standby": "N/A",
+   "Other Name(s)": "Radio",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Deep Freezer",
+   "Minimum": "19W",
+   "Maximum": "19W",
+   "Standby": "N/A",
+   "Other Name(s)": "Chest Freezer",
+   "References": "[1]",
+   "Notes": "168 Kwh/year"
+ },
+ {
+   "Device": "Dehumidifier",
+   "Minimum": "240W",
+   "Maximum": "240W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Desktop Computer",
+   "Minimum": "100W",
+   "Maximum": "450W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Dishwasher",
+   "Minimum": "1200W",
+   "Maximum": "1500W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Domestic Water Pump",
+   "Minimum": "200W",
+   "Maximum": "300W",
+   "Standby": "0W",
+   "Other Name(s)": "Shower Water Pump",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "DVD Player",
+   "Minimum": "26W",
+   "Maximum": "60W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Blanket",
+   "Minimum": "200W",
+   "Maximum": "200W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Boiler",
+   "Minimum": "4000W",
+   "Maximum": "14000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Doorbell Transformer",
+   "Minimum": "2W",
+   "Maximum": "2W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Heater Fan",
+   "Minimum": "2000W",
+   "Maximum": "3000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Kettle",
+   "Minimum": "1200W",
+   "Maximum": "3000W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Mower",
+   "Minimum": "1500W",
+   "Maximum": "1500W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Pressure Cooker",
+   "Minimum": "1000W",
+   "Maximum": "1000W",
+   "Standby": "N/A",
+   "Other Name(s)": "Pressure Cooker",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Shaver",
+   "Minimum": "15W",
+   "Maximum": "20W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric stove",
+   "Minimum": "2000W",
+   "Maximum": "2000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Tankless Water Heater",
+   "Minimum": "6600W",
+   "Maximum": "8800W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Electric Thermal Radiator",
+   "Minimum": "500W",
+   "Maximum": "500W",
+   "Standby": "N/A",
+   "Other Name(s)": "Thermal Radiator",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Espresso Coffee Machine",
+   "Minimum": "1300W",
+   "Maximum": "1500W",
+   "Standby": "N/A",
+   "Other Name(s)": "Espresso Machine",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "EV Car Charger",
+   "Minimum": "2000W",
+   "Maximum": "7000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "EV Home Charger",
+   "Minimum": "1600W",
+   "Maximum": "3400W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Evaporative Air Conditioner",
+   "Minimum": "2600W",
+   "Maximum": "2600W",
+   "Standby": "N/A",
+   "Other Name(s)": "Evaporative Cooler",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Extractor Fan",
+   "Minimum": "12W",
+   "Maximum": "12W",
+   "Standby": "N/A",
+   "Other Name(s)": "Bathroom Fan",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Fluorescent Lamp",
+   "Minimum": "28W",
+   "Maximum": "45W",
+   "Standby": "N/A",
+   "Other Name(s)": "Fluorescent Tube Light",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Food Blender",
+   "Minimum": "300W",
+   "Maximum": "400W",
+   "Standby": "N/A",
+   "Other Name(s)": "Mixer,Food Processor,Blender,Juice Blender,Juice Mixer",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Food Dehydrator",
+   "Minimum": "800W",
+   "Maximum": "800W",
+   "Standby": "N/A",
+   "Other Name(s)": "Tray Dehydrator",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Freezer",
+   "Minimum": "30W",
+   "Maximum": "50W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Fridge",
+   "Minimum": "100W",
+   "Maximum": "220W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Fridge / Freezer",
+   "Minimum": "150W",
+   "Maximum": "400W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Fryer",
+   "Minimum": "1000W",
+   "Maximum": "1000W",
+   "Standby": "N/A",
+   "Other Name(s)": "Deep Fat Fryer,Deep Fryer",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Game Console",
+   "Minimum": "120W",
+   "Maximum": "200W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Gaming PC",
+   "Minimum": "300W",
+   "Maximum": "600W",
+   "Standby": "1W",
+   "Other Name(s)": "Gaming Computer",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Garage Door Opener",
+   "Minimum": "300W",
+   "Maximum": "400W",
+   "Standby": "N/A",
+   "Other Name(s)": "Electric Garage Door",
+   "References": "",
+   "Notes": "As the door only operates for a short time (10secs?) the kWH value is low"
+ },
+ {
+   "Device": "Guitar Amplifier",
+   "Minimum": "20W",
+   "Maximum": "30W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Hair Blow Dryer",
+   "Minimum": "1800W",
+   "Maximum": "2500W",
+   "Standby": "N/A",
+   "Other Name(s)": "Blow Dryer, Hair Dryer, Hair Drier",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Hand Wash Oversink Water Heater",
+   "Minimum": "3000W",
+   "Maximum": "3000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Heated Bathroom Mirror",
+   "Minimum": "50W",
+   "Maximum": "100W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Heated Hair Rollers",
+   "Minimum": "400W",
+   "Maximum": "400W",
+   "Standby": "N/A",
+   "Other Name(s)": "Heated Rollers",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Home Air Conditioner",
+   "Minimum": "1000W",
+   "Maximum": "4000W",
+   "Standby": "N/A",
+   "Other Name(s)": "AC,A/C",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Home Internet Router",
+   "Minimum": "5W",
+   "Maximum": "15W",
+   "Standby": "N/A",
+   "Other Name(s)": "Router",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Home Phone",
+   "Minimum": "3W",
+   "Maximum": "5W",
+   "Standby": "2W",
+   "Other Name(s)": "DECT Telephone",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Home Sound System",
+   "Minimum": "95W",
+   "Maximum": "95W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Hot Water Dispenser",
+   "Minimum": "1200W",
+   "Maximum": "1300W",
+   "Standby": "N/A",
+   "Other Name(s)": "Instant Hot Water Tap,Water Boiler",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Hot Water Immersion Heater",
+   "Minimum": "3000W",
+   "Maximum": "3000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Humidifier",
+   "Minimum": "35W",
+   "Maximum": "40W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "iMac",
+   "Minimum": "60W",
+   "Maximum": "240W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Induction Hob (per hob)",
+   "Minimum": "1400W",
+   "Maximum": "1800W",
+   "Standby": "N/A",
+   "Other Name(s)": "Induction Stove, Induction Cooking Stove , Electric Cooker",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Inkjet Printer",
+   "Minimum": "20W",
+   "Maximum": "30W",
+   "Standby": "N/A",
+   "Other Name(s)": "Printer",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Inverter Air conditioner",
+   "Minimum": "1300W",
+   "Maximum": "1800W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Iron",
+   "Minimum": "1000W",
+   "Maximum": "1000W",
+   "Standby": "N/A",
+   "Other Name(s)": "Electric Iron",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Kitchen Extractor Fan",
+   "Minimum": "200W",
+   "Maximum": "200W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Laptop Computer",
+   "Minimum": "50W",
+   "Maximum": "100W",
+   "Standby": "N/A",
+   "Other Name(s)": "Laptop",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Laser Printer",
+   "Minimum": "600W",
+   "Maximum": "800W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Lawnmower",
+   "Minimum": "1000W",
+   "Maximum": "1400W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "LED Light Bulb",
+   "Minimum": "7W",
+   "Maximum": "10W",
+   "Standby": "0W",
+   "Other Name(s)": "Energy Saver Bulb",
+   "References": "[1][2]",
+   "Notes": ""
+ },
+ {
+   "Device": "Mi Box",
+   "Minimum": "5W",
+   "Maximum": "7W",
+   "Standby": "3W",
+   "Other Name(s)": "Mi Box Android",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Microwave",
+   "Minimum": "600W",
+   "Maximum": "1700W",
+   "Standby": "3W",
+   "Other Name(s)": "Microwave Oven",
+   "References": "[1][2]",
+   "Notes": ""
+ },
+ {
+   "Device": "Night Light",
+   "Minimum": "1W",
+   "Maximum": "1W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Nintendo Switch AC Adapter",
+   "Minimum": "7W",
+   "Maximum": "40W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Outdoor Hot Tub",
+   "Minimum": "60W",
+   "Maximum": "500W",
+   "Standby": "N/A",
+   "Other Name(s)": "Canadian Spa,Outdoor spa",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Oven",
+   "Minimum": "2150W",
+   "Maximum": "2150W",
+   "Standby": "N/A",
+   "Other Name(s)": "Electric Oven",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Paper Shredder",
+   "Minimum": "200W",
+   "Maximum": "220W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Pedestal Fan",
+   "Minimum": "50W",
+   "Maximum": "60W",
+   "Standby": "N/A",
+   "Other Name(s)": "Tall Standing Fan,Floor Fan,Stand Fan",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Percolator",
+   "Minimum": "800W",
+   "Maximum": "1100W",
+   "Standby": "N/A",
+   "Other Name(s)": "Coffee Maker",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Philips Hue Smart Bulb",
+   "Minimum": "8W",
+   "Maximum": "9W",
+   "Standby": "0.4W",
+   "Other Name(s)": "Hue lights",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Phone Charger",
+   "Minimum": "4W",
+   "Maximum": "7W",
+   "Standby": "N/A",
+   "Other Name(s)": "Smart Phone Charger,Cell Phone Charger,Mobile Phone Charger",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Playstation 4",
+   "Minimum": "85W",
+   "Maximum": "90W",
+   "Standby": "N/A",
+   "Other Name(s)": "PS4",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Power Shower",
+   "Minimum": "7500W",
+   "Maximum": "10500W",
+   "Standby": "0W",
+   "Other Name(s)": "Electric Shower",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Pressure Cooker",
+   "Minimum": "700W",
+   "Maximum": "700W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Projector",
+   "Minimum": "220W",
+   "Maximum": "270W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Refrigerator",
+   "Minimum": "100W",
+   "Maximum": "200W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Rice Cooker",
+   "Minimum": "200W",
+   "Maximum": "800W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Sandwich Maker",
+   "Minimum": "700W",
+   "Maximum": "1000W",
+   "Standby": "N/A",
+   "Other Name(s)": "Sandwich Press, Sandwich Toaster",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Scanner",
+   "Minimum": "10W",
+   "Maximum": "18W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Set Top Box",
+   "Minimum": "27W",
+   "Maximum": "30W",
+   "Standby": "N/A",
+   "Other Name(s)": "Cable Box,Humax Box",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Sewing Machine",
+   "Minimum": "70W",
+   "Maximum": "80W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Singer Sewing Machine",
+   "Minimum": "100W",
+   "Maximum": "100W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Slow Cooker",
+   "Minimum": "160W",
+   "Maximum": "180W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Space Heater",
+   "Minimum": "2000W",
+   "Maximum": "5000W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Steam Iron",
+   "Minimum": "2200W",
+   "Maximum": "2500W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Steriliser",
+   "Minimum": "650W",
+   "Maximum": "650W",
+   "Standby": "N/A",
+   "Other Name(s)": "Sterilizer",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Straightening Iron",
+   "Minimum": "75W",
+   "Maximum": "300W",
+   "Standby": "N/A",
+   "Other Name(s)": "Hair Straighteners,Hair Straighteners",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Strimmer",
+   "Minimum": "300W",
+   "Maximum": "500W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Submersible Water Pump",
+   "Minimum": "200W",
+   "Maximum": "400W",
+   "Standby": "N/A",
+   "Other Name(s)": "Pool Pump,Sump Pump,Well Pump",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Table Fan",
+   "Minimum": "10W",
+   "Maximum": "25W",
+   "Standby": "N/A",
+   "Other Name(s)": "Desk Fan",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Tablet Charger",
+   "Minimum": "10W",
+   "Maximum": "15W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Tablet Computer",
+   "Minimum": "5W",
+   "Maximum": "10W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Toaster",
+   "Minimum": "800W",
+   "Maximum": "1800W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Tower Fan",
+   "Minimum": "60W",
+   "Maximum": "60W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Treadmill",
+   "Minimum": "280W",
+   "Maximum": "900W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Tube Light (1500mm)",
+   "Minimum": "22W",
+   "Maximum": "22W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "TV (19\" colour)",
+   "Minimum": "40W",
+   "Maximum": "100W",
+   "Standby": "1W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Vacuum Cleaner",
+   "Minimum": "450W",
+   "Maximum": "900W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1][2]",
+   "Notes": ""
+ },
+ {
+   "Device": "Wall Fan",
+   "Minimum": "45W",
+   "Maximum": "60W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Washing Machine",
+   "Minimum": "500W",
+   "Maximum": "500W",
+   "Standby": "1W",
+   "Other Name(s)": "Clothes Washer",
+   "References": "",
+   "Notes": "In the EU, power consumption of Washing Machines is typically given in the form of Annual Power  Consumption. This is calculated based on 220 standard washing cycles, made up as follows: 60°C full load (3x), 60°C half load (2x), 40°C half load (2x) for 220 washing cycles."
+ },
+ {
+   "Device": "Water Dispenser",
+   "Minimum": "100W",
+   "Maximum": "100W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Water Feature",
+   "Minimum": "35W",
+   "Maximum": "35W",
+   "Standby": "N/A",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Water Filter and Cooler",
+   "Minimum": "70W",
+   "Maximum": "100W",
+   "Standby": "N/A",
+   "Other Name(s)": "Water Cooler",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "WiFi Booster",
+   "Minimum": "1W",
+   "Maximum": "2W",
+   "Standby": "N/A",
+   "Other Name(s)": "WiFi Repeater,WiFi Extender,Range Extender",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "WiFi Router",
+   "Minimum": "4W",
+   "Maximum": "10W",
+   "Standby": "4W",
+   "Other Name(s)": "Router",
+   "References": "",
+   "Notes": ""
+ },
+ {
+   "Device": "Wine cooler (18 bottles)",
+   "Minimum": "83W",
+   "Maximum": "83W",
+   "Standby": "0W",
+   "Other Name(s)": "",
+   "References": "[1]",
+   "Notes": ""
+ },
+ {
+   "Device": "Xbox One",
+   "Minimum": "50W",
+   "Maximum": "110W",
+   "Standby": "14W",
+   "Other Name(s)": "",
+   "References": "",
+   "Notes": ""
+ }
+]
