@@ -336,13 +336,12 @@ option:disabled {
   transition-duration: 0.5s;
 }
 .boxicon{
-  display: inline-table;
- /* width: 120px;
-  height: 120px;*/
-  width: 50%;
-  height: auto;
-  background-color: blanchedalmond;
-  margin-top: 20px;
+    display: inline-table;
+    width: 320px;
+    height: auto;
+    background-color: blanchedalmond;
+    margin-top: 20px;
+    min-width: 320px;
 
 }
 .boxicon img{
