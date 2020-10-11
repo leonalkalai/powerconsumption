@@ -157,7 +157,7 @@ span {
 }
 .select-wrapper {
   position: relative;
-  width: 290px;
+  width: 60%;
   margin: 30px auto;
   display: inline-flex;
 }
@@ -190,12 +190,12 @@ span {
   display: block;
   position: relative;
   border: 4px solid #333333;
-  background-color: transparent;
+  background-color: #a1c5e1;
   color: #333333;
   padding: 15px 40px 15px 15px;
   font-weight: 700;
   line-height: 20px;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   outline: none;
   border-radius: 0;
   appearance: none;
@@ -336,12 +336,12 @@ option:disabled {
   transition-duration: 0.5s;
 }
 .boxicon{
-    display: inline-table;
-    width: 320px;
-    height: auto;
-    background-color: blanchedalmond;
-    margin-top: 20px;
-    min-width: 320px;
+  display: inline-table;
+  width: 320px;
+  height: auto;
+  background-color: blanchedalmond;
+  margin-top: 20px;
+  min-width: 320px;
 
 }
 .boxicon img{
