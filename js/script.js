@@ -4,7 +4,6 @@ const devicesDiv = document.querySelector("#devices"); // select element with id
 const devicesResponseDiv = document.querySelector("h2"); //select element h2
 const resultResponseDiv = document.querySelector("#result"); //select element with id result
 const selectDiv = document.querySelector("select"); // select element "select"
-const $headerh2 = $('#result > h2'); // select element h2 of result div
 let devicesResponse = ""; //declare devices response as empty string
 let resultResponse = "";  //declare result response as empty string
 let waitresponse = "Please wait"; // declare wait response
@@ -97,7 +96,7 @@ $('select').change(function() { //on change select do stuff
       'Router':'router'
 
     };
-
+    var $headerh2 = $('#result > h2'); // select element h2 of result div
     var found, key; 
     $headerh2.each(function () { // for each h2 elements
         found = false; // not found yet
