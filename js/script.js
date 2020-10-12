@@ -55,6 +55,9 @@ $('select').change(function() { //on change select do stuff
   //empty result div and append selected option
   $('#result').empty().append('<span class="arrowspan bounce"></span>'+'<h2>'+selectOption+'</h2>'+"has power consumption");
   
+  $('#result').animate({fontSize: '2.5em'}); //animate fontsize to show text
+  $('#result > h2').animate({fontSize: '2em'}); //animate fontsize to show text
+
   // empty devices div and append a div with class box
   $('#devices').empty().append('<div class="boxicon"></div>');
 
@@ -110,6 +113,7 @@ $('select').change(function() { //on change select do stuff
     });
  
   $('.boxicon').append('<div class="box">'+wattcostperhour.toFixed(4).toLocaleString() + ' €/hour'+'</div>'); //append box div ,display watt cost per hour with 4 decimal places and convert to string
+  $('.box').animate({fontSize: '4rem'}); //animate fontsize to show text
   $('div.container.item > h2').hide(); // hide wait text 
 
 });// end on change function
