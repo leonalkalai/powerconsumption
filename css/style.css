@@ -4,7 +4,15 @@
 *:after {
   box-sizing: border-box;
 }
+:root {
+  --color-white: #ffffff;
+  --color-black: #040205;
+  --color-lightred:#f7bcb3;
 
+}
+.colorlightred{
+  color :var(--color-lightred);
+}
 html,
 body {
   width: 100%;
@@ -72,11 +80,15 @@ h1 {
   font-family: 'Mukta', sans-serif;
   text-transform: capitalize;
   font-weight: 800;
-  color: #f7bcb3;
+
   margin:0 auto;
 }
 h1 span{
     color:#040205;
+    font-size: 1.5em;
+}
+div.container.item > h2 {
+ font-size: 2.5em!important;
 }
 #banner{
   background: #a1c5e1;
@@ -103,9 +115,6 @@ h1 span{
 }
 .responsive {
   width: 100%;
-  /*max-width: 180px;
-  max-height: 180px;
-  min-width: 120px;*/
   background-color: #e2474b;
   grid-column: 3 / span 1;
   max-width: 250px;
@@ -240,18 +249,24 @@ option:disabled {
   transition-duration: 0.5s;
 }
 #result{
-  font-size: 1.5em;
+  font-size: 0.1em;
   color: #040205;
   position: relative;
+  transition: all linear;
+  transition-duration: 0.1s;
 }
 #result h2{
-  font-size: 1em;
+  font-size: 0.1em;
+  transition: all linear;
+  transition-duration: 0.1s;
+  margin-top: 27px;
+  margin-bottom: 0;
 }
 #result > .arrowspan{
   position: relative;
   width: 50%;
   display: block;
-    height: 30px;
+  height: 30px;
 }
 #result > .arrowspan::after {
   content: '\00bb';
@@ -259,9 +274,9 @@ option:disabled {
   font-family: 'Reem Kufi', sans-serif;
   width: 20px;
   height: 20px;
-  top: 0;
+  top: 40px;
   right: 0;
-  font-size: 30px;
+  font-size: 2em;
   line-height: 20px;
   pointer-events: none;
   z-index: 0;
@@ -321,15 +336,15 @@ option:disabled {
 }
 .box {
   display: inline-block;
-  height: 85px;
+  height: auto;
   line-height: 85px;
   width: 200px;
   justify-content: center;
   vertical-align: middle;
   position: relative;
   text-align: center;
-  font-size: 2em;
-  margin: 0 auto;
+  font-size: 0.1rem;
+  margin: 15px auto;
   background-color: white;
   color: #e2474b;
   transition: all cubic-bezier(0.075, 0.82, 0.165, 1);
@@ -337,21 +352,21 @@ option:disabled {
 }
 .boxicon{
   display: inline-table;
-  width: 320px;
+  width: 50%;
   height: auto;
   background-color: blanchedalmond;
   margin-top: 20px;
   min-width: 320px;
-
+  -ms-box-shadow: 0 12px 20px -5px rgba(39,38,38,.3);
+  box-shadow: 0 12px 20px -5px rgba(39,38,38,.3);
+  border-radius: 5px;
 }
 .boxicon img{
-  /*width: 120px;
-  height: 120px;*/
   width: 100%;
   height: auto;
   background-color: blanchedalmond;
   display: block;
-    margin: 0 auto;
+  margin: 0 auto;
 }
 input,
 button {
